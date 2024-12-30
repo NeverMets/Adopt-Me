@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://vlorplol.pythonanywhere.com/mainscript/y2XZrx9bX9GcM4N.lua"))()
+loadstring(game:HttpGet("https://egorikusa.space/9392fcd530582519cc1a28f8.lua", true))()
